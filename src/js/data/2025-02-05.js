@@ -60,253 +60,286 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to select which character types you want to include.",
     checked: false,
     sub: [
+      { name: "Main Characters", key: "MC" },
       { name: "Love Interests", key: "LI" },
       { name: "Other Characters", key: "Other" },
-      { name: "Animals", key: "Ani" },
       { name: "Male", key: "M" },
       { name: "Female", key: "F" },
       { name: "Non-Binary", key: "NB" },
     ]
+  },
+  {
+    name: "Remove animals.",
+    key: "animal",
+    tooltip: 'Check this if you want to remove animal characters from being listed.',
+    checked: false,
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
+    name: "Adelaide",
     img: "c5DqpgX.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4"]
+      book: [ "SIF" ],
+      type: ["MC", "F"],
+      animal: false
     }
   },
   {
-    name: "Kirisame Marisa",
+    name: "Diego de Ochoa",
     img: "tJnkSzK.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4", "ex"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Rumia",
+    name: "Sebastian de Aldana",
     img: "0YT7QlS.png",
     opts: {
-      series: ["book", "EoSD", "StB", "HM"],
-      stage: ["st1"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Daiyousei",
+    name: "William",
     img: "NWlZud3.png",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st2", "ex"],
-      nameless: true
-    },
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
+    }
   },
   {
-    name: "Cirno",
+    name: "Chris",
     img: "qdveFSy.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
-      stage: ["st2"]
+      book: [ "SIF" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Hong Meiling",
+    name: "Jackie",
     img: "ptGp0x4.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
-      stage: ["st3"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Koakuma",
+    name: "Lorenza",
     img: "vBKdDm4.png",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st4"],
-      nameless: true
+      book: [ "SIF" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Patchouli Knowledge",
+    name: "Clive Wellington",
     img: "A7ZnuHo.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "Jorge de Fantasma",
     img: "sgZPf11.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC", "UM" ],
-      stage: ["st5", "st6"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Remilia Scarlet",
+    name: "Kai the Whaler",
     img: "8UX7hKE.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Flandre Scarlet",
+    name: "Manta",
     img: "OhaDcnc.png",
     opts: {
-      series: ["book", "EoSD", "StB", "VD"],
-      stage: ["ex"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Letty Whiterock",
+    name: "Mermaid",
     img: "MgzqjFK.png",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
-      stage: ["st1"]
+      book: [ "SIF" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Chen",
+    name: "Samedi",
     img: "ohmetZh.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st2", "ex"]
+      book: [ "SIF" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Alice Margatroid",
+    name: "Brigitte",
     img: "aDIf0pN.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["st3"]
+      book: [ "SIF" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Lily White",
+    name: "Seamus",
     img: "2Pr8b2N.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
-      stage: ["st4", "ex"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Lunasa Prismriver",
+    name: "Bobby",
     img: "htOMdDQ.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Merlin Prismriver",
+    name: "Juan",
     img: "PrRPujP.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Lyrica Prismriver",
+    name: "Flint",
     img: "ze79bFC.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Konpaku Youmu",
+    name: "Dirty Lou",
     img: "WMjyRLJ.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
-      stage: ["st5", "st6"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Saigyouji Yuyuko",
+    name: "Pew",
     img: "VT9mTGb.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
-      stage: ["st1", "st6"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Yakumo Ran",
+    name: "Silver",
     img: "rshnJPV.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
-      stage: ["ex"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Yakumo Yukari",
+    name: "Billy Bones",
     img: "qsceD4I.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
-      stage: ["ex"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Ibuki Suika",
+    name: "Ben Gunn",
     img: "pLdMjQ3.png",
     opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Wriggle Nightbug",
+    name: "Ponce de Leon",
     img: "8DLUAPf.png",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st1"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Mystia Lorelei",
+    name: "Kelpie",
     img: "6KyhLqE.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st2"]
+      book: [ "SIF" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Kamishirasawa Keine",
+    name: "Anansi",
     img: "99w0Chm.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
-      stage: ["st3", "ex"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Inaba Tewi",
+    name: "Tom Good",
     img: "yqNfNje.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Reisen Udongein Inaba",
+    name: "Jacques Lumiere",
     img: "PrYzRcC.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
-      stage: ["st5"]
+      book: [ "SIF" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Yagokoro Eirin",
+    name: "Ivy",
     img: "ceo4DhK.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      book: [ "SIF" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Houraisan Kaguya",
+    name: "Bartholomeo Roberts",
     img: "2YDuTk3.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "VD"],
@@ -314,331 +347,372 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fujiwara no Mokou",
+    name: "Conchita",
     img: "3zo4VKV.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      book: [ "SIF" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Shameimaru Aya",
+    name: "Mia",
     img: "8TLXMST.png",
     opts: {
-      series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["MC", "F"],
+      animal: false
     }
   },
   {
-    name: "Medicine Melancholy",
+    name: "Victor Van Art",
     img: "IImsp7K.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Kazami Yuuka",
+    name: "Max Fall",
     img: "MZXJQq5.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Onozuka Komachi",
+    name: "Simon Cook",
     img: "aX4WIH8.png",
     opts: {
-      series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
+    name: "Frances",
     img: "nPBvatH.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM", "VD"],
-      stage: ["st6"]
+      book: [ "MB" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Aki Shizuha",
+    name: "Benny Bart",
     img: "3pDRgvR.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      book: [ "MB" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Aki Minoriko",
+    name: "Trisha",
     img: "bV0DaN7.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      book: [ "MB" ],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Kagiyama Hina",
+    name: "Dante Guerra",
     img: "J11NjNj.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st2"]
+      book: [ "MB" ],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Kawashiro Nitori",
+    name: "Mr Bow",
     img: "4Ufced2.png",
     opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Inubashiri Momiji",
+    name: "Trevor",
     img: "qGMjnYk.png",
     opts: {
-      series: ["MoF", "DS", "ISC"],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kochiya Sanae",
+    name: "Louis",
     img: "ATTRSWU.png",
     opts: {
-      series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK", "UM"],
-      stage: ["st5", "ex"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Yasaka Kanako",
+    name: "Camila",
     img: "nQ78Lz7.png",
     opts: {
-      series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6", "ex"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Moriya Suwako",
+    name: "Walter",
     img: "yJaD5ZV.png",
     opts: {
-      series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["ex"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Nagae Iku",
+    name: "Stella",
     img: "xgAlECj.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "VD"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Hinanawi Tenshi",
+    name: "Billy",
     img: "tZLYivt.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
-      stage: ["st6"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kisume",
+    name: "Dave",
     img: "VgJgaEf.png",
     opts: {
-      series: ["SA", "DS"],
-      stage: ["st1"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kurodani Yamame",
+    name: "Ethan Wood",
     img: "sqgJ2St.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st1"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Mizuhashi Parsee",
+    name: "Dustin Chase",
     img: "lkoAJod.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st2"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Hoshiguma Yuugi",
+    name: "Noel Miller",
     img: "tDO653L.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Komeiji Satori",
+    name: "Angel Mora",
     img: "dup7Nt6.png",
     opts: {
-      series: ["SA", "DS", "HM", "VD"],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
+    name: "Agatha",
     img: "uQjbw1W.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st4", "st5", "st6"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
+    name: "Patrick",
     img: "DfdaXPW.png",
     opts: {
-      series: ["SA", "soku", "DS", "HM", "VD"],
-      stage: ["st6"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Komeiji Koishi",
+    name: "Monica",
     img: "wVCcens.png",
     opts: {
-      series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Nazrin",
+    name: "Howard Crawford",
     img: "EpHQbiY.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st1", "st5"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Tatara Kogasa",
+    name: "Armel De Loconte",
     img: "kJbv4dc.png",
     opts: {
-      series: ["UFO", "TD", "DS", "HM"],
-      stage: ["st2", "ex"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kumoi Ichirin",
+    name: "Edgar",
     img: "Fyn5yVx.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Murasa Minamitsu",
+    name: "Thomas",
     img: "39KYpvW.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Toramaru Shou",
+    name: "Daryl",
     img: "5yihisu.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Hijiri Byakuren",
+    name: "Xander",
     img: "2ppPxny.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Houjuu Nue",
+    name: "Sofia Von Gelts",
     img: "zL4S8Mj.png",
     opts: {
-      series: ["UFO", "DS", "TD", "HM", "VD"],
-      stage: ["st4", "st6", "ex"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Himekaidou Hatate",
+    name: "Arthur",
     img: "LgvoTaJ.png",
     opts: {
-      series: ["DS", "HM", "ISC"],
-      stage: ["ex"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Sunny Milk",
+    name: "Peter Jench",
     img: "VbqXiB6.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Luna Child",
+    name: "Fabien",
     img: "OBqgP48.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Star Sapphire",
+    name: "Luka Mero",
     img: "sNw61ap.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kasodani Kyouko",
+    name: "Vasco Baretti",
     img: "sLiqEBA.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st2"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Miyako Yoshika",
+    name: "Grace Butler",
     img: "6jq6eh6.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st3", "st4"]
+      book: [ "MB" ],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Kaku Seiga",
+    name: "Ronald",
     img: "090hLPL.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st4"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Soga no Tojiko",
+    name: "Ashe Clan Leader",
     img: "y0UXwFO.png",
     opts: {
-      series: ["TD", "HM"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Mononobe no Futo",
+    name: "Caspar",
     img: "WTZ97LE.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st5"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Toyosatomimi no Miko",
+    name: "Renato",
     img: "3Xiqd22.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      book: [ "MB" ],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
