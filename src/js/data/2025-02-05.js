@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Adelaide",
     img: "c5DqpgX.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["MC", "F"],
       animal: false
     }
@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Diego de Ochoa",
     img: "tJnkSzK.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sebastian de Aldana",
     img: "0YT7QlS.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     name: "William",
     img: "NWlZud3.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -117,7 +117,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Chris",
     img: "qdveFSy.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "F"],
       animal: false
     }
@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jackie",
     img: "ptGp0x4.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -135,7 +135,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Lorenza",
     img: "vBKdDm4.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "F"],
       animal: false
     }
@@ -144,7 +144,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Clive Wellington",
     img: "A7ZnuHo.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jorge de Fantasma",
     img: "sgZPf11.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kai the Whaler",
     img: "8UX7hKE.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Manta",
     img: "OhaDcnc.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mermaid",
     img: "MgzqjFK.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "F"],
       animal: false
     }
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Samedi",
     img: "ohmetZh.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "M"],
       animal: false
     }
@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Brigitte",
     img: "aDIf0pN.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["LI", "F"],
       animal: false
     }
@@ -207,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Seamus",
     img: "2Pr8b2N.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -216,7 +216,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Bobby",
     img: "htOMdDQ.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -225,7 +225,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Juan",
     img: "PrRPujP.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -234,7 +234,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Flint",
     img: "ze79bFC.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -243,7 +243,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dirty Lou",
     img: "WMjyRLJ.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -252,7 +252,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Pew",
     img: "VT9mTGb.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Silver",
     img: "rshnJPV.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -270,7 +270,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Billy Bones",
     img: "qsceD4I.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ben Gunn",
     img: "pLdMjQ3.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -288,7 +288,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ponce de Leon",
     img: "8DLUAPf.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -297,7 +297,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kelpie",
     img: "6KyhLqE.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "F"],
       animal: false
     }
@@ -306,7 +306,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Anansi",
     img: "99w0Chm.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -315,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Tom Good",
     img: "yqNfNje.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -324,7 +324,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jacques Lumiere",
     img: "PrYzRcC.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "M"],
       animal: false
     }
@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ivy",
     img: "ceo4DhK.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "F"],
       animal: false
     }
@@ -342,15 +342,16 @@ dataSet[dataSetVersion].characterData = [
     name: "Bartholomeo Roberts",
     img: "2YDuTk3.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      book: ["SIF"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
     name: "Conchita",
     img: "3zo4VKV.png",
     opts: {
-      book: [ "SIF" ],
+      book: ["SIF"],
       type: ["Other", "F"],
       animal: false
     }
@@ -359,7 +360,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mia",
     img: "8TLXMST.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["MC", "F"],
       animal: false
     }
@@ -368,7 +369,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Victor Van Art",
     img: "IImsp7K.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "M"],
       animal: false
     }
@@ -377,7 +378,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Max Fall",
     img: "MZXJQq5.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "M"],
       animal: false
     }
@@ -386,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Simon Cook",
     img: "aX4WIH8.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "M"],
       animal: false
     }
@@ -395,7 +396,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Frances",
     img: "nPBvatH.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "F"],
       animal: false
     }
@@ -404,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Benny Bart",
     img: "3pDRgvR.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "M"],
       animal: false
     }
@@ -413,7 +414,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Trisha",
     img: "bV0DaN7.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "F"],
       animal: false
     }
@@ -422,7 +423,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dante Guerra",
     img: "J11NjNj.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["LI", "M"],
       animal: false
     }
@@ -431,7 +432,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mr Bow",
     img: "4Ufced2.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -440,7 +441,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Trevor",
     img: "qGMjnYk.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -449,7 +450,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Louis",
     img: "ATTRSWU.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -458,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Camila",
     img: "nQ78Lz7.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "F"],
       animal: false
     }
@@ -467,7 +468,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Walter",
     img: "yJaD5ZV.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -476,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Stella",
     img: "xgAlECj.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "F"],
       animal: false
     }
@@ -485,7 +486,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Billy",
     img: "tZLYivt.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -494,7 +495,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dave",
     img: "VgJgaEf.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -503,7 +504,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ethan Wood",
     img: "sqgJ2St.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -512,7 +513,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dustin Chase",
     img: "lkoAJod.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -521,7 +522,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Noel Miller",
     img: "tDO653L.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -530,17 +531,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Angel Mora",
     img: "dup7Nt6.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Agatha",
-    img: "uQjbw1W.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "F"],
       animal: false
     }
   },
@@ -548,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Patrick",
     img: "DfdaXPW.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -557,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Monica",
     img: "wVCcens.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "F"],
       animal: false
     }
@@ -566,7 +558,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Howard Crawford",
     img: "EpHQbiY.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -575,25 +567,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Armel De Loconte",
     img: "kJbv4dc.png",
     opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Edgar",
-    img: "Fyn5yVx.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Thomas",
-    img: "39KYpvW.png",
-    opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -602,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Daryl",
     img: "5yihisu.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -611,7 +585,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Xander",
     img: "2ppPxny.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -620,7 +594,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sofia Von Gelts",
     img: "zL4S8Mj.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "F"],
       animal: false
     }
@@ -629,7 +603,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Arthur",
     img: "LgvoTaJ.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -638,34 +612,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Peter Jench",
     img: "VbqXiB6.png",
     opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Fabien",
-    img: "OBqgP48.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Luka Mero",
-    img: "sNw61ap.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Vasco Baretti",
-    img: "sLiqEBA.png",
-    opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
@@ -674,17 +621,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Grace Butler",
     img: "6jq6eh6.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "F"],
-      animal: false
-    }
-  },
-  {
-    name: "Ronald",
-    img: "090hLPL.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
       animal: false
     }
   },
@@ -692,355 +630,378 @@ dataSet[dataSetVersion].characterData = [
     name: "Ashe Clan Leader",
     img: "y0UXwFO.png",
     opts: {
-      book: [ "MB" ],
+      book: ["MB"],
       type: ["Other", "M"],
       animal: false
     }
   },
   {
-    name: "Caspar",
-    img: "WTZ97LE.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Renato",
-    img: "3Xiqd22.png",
-    opts: {
-      book: [ "MB" ],
-      type: ["Other", "M"],
-      animal: false
-    }
-  },
-  {
-    name: "Futatsuiwa Mamizou",
+    name: "Ralph Fall",
     img: "gMpWdmA.png",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Hata no Kokoro",
+    name: "Sean Fall",
     img: "fxCGmUk.png",
     opts: {
-      series: ["book", "HM", "ULiL", "AoCF"],
-      stage: ["st6"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Wakasagihime",
+    name: "Helen Fall",
     img: "brWCLVx.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st1"]
+      book: ["MB"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Sekibanki",
+    name: "Audrey Fall",
     img: "VAMLiJD.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st2"]
+      book: ["MB"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Imaizumi Kagerou",
+    name: "John Fall",
     img: "qwwL0bB.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st3"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Tsukumo Benben",
+    name: "Conrad Fall",
     img: "vWNeMaH.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Tsukumo Yatsuhashi",
+    name: "Samantha Obie",
     img: "EJFQHQN.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      book: ["MB"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Kijin Seija",
+    name: "Lorette",
     img: "16RUacj.png",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st5", "st6"]
+      book: ["MB"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
+    name: "Remi",
     img: "Zl2tN7W.png",
     opts: {
-      series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Horikawa Raiko",
+    name: "Emile Obie",
     img: "SLLEccR.png",
     opts: {
-      series: ["DDC", "ISC", "AoCF", "VD"],
-      stage: ["ex"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Usami Sumireko",
+    name: "Didier",
     img: "mc7ICW6.png",
     opts: {
-      series: ["ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Seiran",
+    name: "Clovis",
     img: "0ra00WG.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st1"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Ringo",
+    name: "Ashton",
     img: "xQOsFlZ.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st2"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Doremy Sweet",
+    name: "Frederic",
     img: "rGS7dyn.png",
     opts: {
-      series: ["LoLK", "AoCF", "VD"],
-      stage: ["st3", "ex"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kishin Sagume",
+    name: "Stanley Fisher",
     img: "HLT338X.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st4"]
+      book: ["MB"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Clownpiece",
+    name: "Emma",
     img: "9Jje7ZQ.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st5"]
+      book: ["MHS"],
+      type: ["MC", "F"],
+      animal: false
     }
   },
   {
-    name: "Junko",
+    name: "David Tarino",
     img: "NsfLZjY.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st6", "ex"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Hecatia Lapislazuli",
+    name: "Mikael Anders",
     img: "EH3Ulol.png",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["ex"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Eternity Larva",
+    name: "Anthony Wood",
     img: "ql5KxJH.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st1"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Sakata Nemuno",
+    name: "Mike",
     img: "gYFhJ3Y.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st2"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Komano Aunn",
+    name: "Ray",
     img: "wWUStkF.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st3"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Yatadera Narumi",
+    name: "Alex",
     img: "wrPVhAo.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st4"]
+      book: ["MHS"],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Nishida Satono",
+    name: "Chris Carter",
     img: "8w9gAy2.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Teireida Mai",
+    name: "Uno",
     img: "DesAqAC.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Matara Okina",
+    name: "Thomas",
     img: "icWvMyo.png",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st6", "ex"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Yorigami Shion",
+    name: "Christie",
     img: "LenxXR4.png",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Yorigami Joon",
+    name: "Jessica",
     img: "V9OznT1.png",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Ebisu Eika",
+    name: "Margaret",
     img: "Ke3316E.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st1"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Ushizaki Urumi",
+    name: "Karen",
     img: "ru2vIIW.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st2"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Niwatari Kutaka",
+    name: "Nicholas Bird",
     img: "QTQt0ZL.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st3"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kicchou Yachie",
+    name: "Gino Gabardini",
     img: "CzcIMxF.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st4"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Joutouguu Mayumi",
+    name: "Ellen",
     img: "GxeziYO.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st5"]
+      book: ["MHS"],
+      type: ["LI", "F"],
+      animal: false
     }
   },
   {
-    name: "Haniyasushin Keiki",
+    name: "Bean",
     img: "Z4jclTi.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st6"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Kurokoma Saki",
+    name: "Eric",
     img: "H2v2GPy.png",
     opts: {
-      series: ["WBaWC"],
-      stage: ["ex"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Goutokuji Mike",
+    name: "Samantha",
     img: "FltSdtv.png",
     opts: {
-      series: ["UM"],
-      stage: ["st1"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Yamashiro Takane",
+    name: "Patrick",
     img: "Aaq99GQ.png",
     opts: {
-      series: ["UM"],
-      stage: ["st2"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Komakusa Sannyo",
+    name: "Albert",
     img: "DKupiv1.png",
     opts: {
-      series: ["UM"],
-      stage: ["st3"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Tamatsukuri Misumaru",
+    name: "Archie Milton",
     img: "BHwfCAQ.png",
     opts: {
-      series: ["UM"],
-      stage: ["st4"]
+      book: ["MHS"],
+      type: ["Other", "M"],
+      animal: false
     }
   },
   {
-    name: "Kudamaki Tsukasa",
+    name: "Captain Jeff",
     img: "KNy3FZq.png",
     opts: {
-      series: ["UM"],
-      stage: ["st5", "st6", "ex"]
+      book: ["MHS"],
+      type: ["LI", "M"],
+      animal: false
     }
   },
   {
-    name: "Iizunamaru Megumu",
+    name: "Gina",
     img: "QA63m27.png",
     opts: {
-      series: ["UM"],
-      stage: ["st5"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
-    name: "Tenkyuu Chimata",
+    name: "Whitney",
     img: "Ga4AYtv.png",
     opts: {
-      series: ["UM"],
-      stage: ["st6"]
+      book: ["MHS"],
+      type: ["Other", "F"],
+      animal: false
     }
   },
   {
